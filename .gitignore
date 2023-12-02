@@ -29,3 +29,6 @@ yarn.lock
 yarn-error.log
 rr
 .rr.yaml
+
+vendor
+node_modules
